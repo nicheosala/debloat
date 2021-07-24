@@ -1,0 +1,35 @@
+
+# The list of packages I removed from a clean LineageOS 18.1 installation.
+## Debloated by Universal Android Debloater:
+com.tencent.soter.soterserver
+com.qti.dpmserviceapp
+com.qti.qualcomm.datastatusnotification
+com.dsi.ant.server
+com.android.apps.tag
+com.android.bips
+com.android.bluetoothmidiservice
+com.android.bookmarkprovider
+com.android.carrierdefaultapp
+com.android.dreams.basic
+com.android.dreams.phototable
+com.android.egg
+com.android.htmlviewer
+com.android.managedprovisioning
+com.android.simappdialog
+com.android.stk
+com.android.traceur
+com.android.wallpapercropper
+com.android.wallpaper.livepicker
+
+## Debloated by me:
+com.android.calculator2
+com.android.contacts
+com.android.gallery3d
+com.android.dialer
+com.android.messaging
+org.lineageos.audiofx
+org.lineageos.jelly     # browser
+org.lineageos.etar      # calendar
+org.lineageos.snap      # camera
+org.lineageos.eleven    # music
+org.lineageos.recorder
